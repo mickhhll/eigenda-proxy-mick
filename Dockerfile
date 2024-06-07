@@ -1,4 +1,4 @@
-# multi container builds ftw
+# multi container builds ftw hello for test kajual
 
 FROM golang:1.21.10-alpine3.19 as builder
 
